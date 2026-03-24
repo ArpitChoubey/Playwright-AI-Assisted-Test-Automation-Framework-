@@ -1,0 +1,10 @@
+API Test Context
+
+Endpoint: https://fakestoreapi.com/products/1
+
+Steps:
+1. Send GET request to the endpoint.
+2. Verify status is 200.
+3. Verify response contains keys: id, title, price, category, description.
+4. Optionally validate types with Ajv JSON Schema.
+5. Log product title and price.
