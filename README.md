@@ -1,4 +1,4 @@
-🚀 Playwright-MCP (Modern Automation Framework)
+🚀 Playwright-AI Assisted Test Automation Framework (Modern Automation Framework)
 
 A scalable Playwright Test Automation Framework built using TypeScript + Page Object Model (POM) for testing Travel & E-commerce applications.
 ⚡ Built using Playwright MCP with GitHub Copilot to enhance productivity and intelligent automation development.
